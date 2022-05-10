@@ -1,3 +1,6 @@
+## This code will caculate Quadretic formula
+
+
 #include <iostream>
 #include <cmath>
 
