@@ -15,3 +15,4 @@ int main() {
       std::cout << root1 <<"\n";
       std::cout << root2 <<"\n";
 }
+
